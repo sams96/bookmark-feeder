@@ -28,7 +28,7 @@ docker run --name bookmark-feeder --restart unless-stopped -p 19928:19928 --env-
 
 These fields are required in your `.env` file.
 
-```
+```env
 BOOKMARK_FEEDER_SYNC_EMAIL=<sync email>
 BOOKMARK_FEEDER_SYNC_PASSWORD=<sync password>
 BOOKMARK_FEEDER_BOOKMARK_FOLDER=<bookmark folder to extract from>
@@ -36,9 +36,9 @@ BOOKMARK_FEEDER_BOOKMARK_FOLDER=<bookmark folder to extract from>
 
 And these are optional, the defaults are included here.
 
-```
+```env
 BOOKMARK_FEEDER_SERVER_ADDRESS=":19928"
-BOOKMARK_FEEDER_FEED_TITLE="Bookmarks Feed"`
+BOOKMARK_FEEDER_FEED_TITLE="Bookmarks Feed"
 BOOKMARK_FEEDER_FEED_LINK=""
 BOOKMARK_FEEDER_FEED_DESC="A collection of bookmarks exported to Atom feed format."
 BOOKMARK_FEEDER_FEED_AUTHOR="Bookmark Feeder"
