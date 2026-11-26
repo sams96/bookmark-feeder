@@ -47,4 +47,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace ffsyncclient => github.com/Mikescher/firefox-sync-client v1.10.0
+replace ffsyncclient => github.com/Mikescher/firefox-sync-client v1.11.0

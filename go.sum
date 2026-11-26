@@ -1,7 +1,7 @@
 git.blackforestbytes.com/BlackForestBytes/goext v0.0.572 h1:NALJ4KKkrRZcNJNsmGrUsjFdOclHSA/KyB6f94QV43k=
 git.blackforestbytes.com/BlackForestBytes/goext v0.0.572/go.mod h1:C4mXq6MwC919jRHjN5IM++qGy6wmvzJZyz30nf285MU=
-github.com/Mikescher/firefox-sync-client v1.10.0 h1:3A2FtODeFqVGrWBQMBihzjm/Mn4XjoHL1llQsTsL31g=
-github.com/Mikescher/firefox-sync-client v1.10.0/go.mod h1:8RwXnLbP6ieglj/CW9jLYLcxozo23R1XwwGJngTrEvE=
+github.com/Mikescher/firefox-sync-client v1.11.0 h1:+xJWOuXYzcKHTPZ3Y+3KqSGEDreBB5T/za/2jY3b6us=
+github.com/Mikescher/firefox-sync-client v1.11.0/go.mod h1:8RwXnLbP6ieglj/CW9jLYLcxozo23R1XwwGJngTrEvE=
 github.com/bytedance/sonic v1.13.2 h1:8/H1FempDZqC4VqjptGo14QQlJx8VdZJegxs6wwfqpQ=
 github.com/bytedance/sonic v1.13.2/go.mod h1:o68xyaF9u2gvVBuGHPlUVCy+ZfmNNO5ETf1+KgkJhz4=
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
